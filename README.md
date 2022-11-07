@@ -4,7 +4,9 @@
     - Plants
     - Birds
     - Art
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about...
+    - Compilers
+    - Microcontrollers
 - 📫 How to reach me 
     - @Ashassins on most social media
 
