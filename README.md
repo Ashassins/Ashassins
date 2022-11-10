@@ -5,6 +5,10 @@
     - Plants
     - Birds
     - Art
+    - Cooking/Baking
+    - Design
+    - Performing and Visual Arts
+    - Latin
 - 🌱 I’m currently learning about...
     - Compilers
     - Microcontrollers
