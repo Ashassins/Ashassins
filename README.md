@@ -14,7 +14,7 @@
     - Compilers
     - Microcontrollers
 - 📫 How to reach me 
-    - @Ashassins on most social media, Phyrc on League of Legends
+    - @Ashassins on most social media
 <!---
 Ashassins/Ashassins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
