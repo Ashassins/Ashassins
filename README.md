@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Ashassins. Aka Ashen, Anna, etc.
+- 👋 Hi, I’m @Ashassins. A.k.a Ashen, Anna, etc.
     - I've worked for Nucor and Cisco so far, and did my B.S. in Computer Engineering at Purdue University
+    - I went to John Champe High School and Thomas Jefferson High School for Science and Technology
 - 👀 I’m interested in 
     - Mechanical Keyboards
     - Plants
