@@ -10,7 +10,7 @@
 - 📫 How to reach me 
     - @Ashassins on most social media
     - Just for fun: https://monkeytype.com/profile/ashassins
-    - Linked in: https://www.linkedin.com/in/ashassins/
+    - LinkedIn: https://www.linkedin.com/in/ashassins/
 <!---
 Ashassins/Ashassins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
