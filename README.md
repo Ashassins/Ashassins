@@ -6,7 +6,7 @@
     - Cooking/Baking, Plants, Birds, Art, Latin / GrecoRoman culture
     - Performing and Visual Arts
 - 🌱 I’m currently learning about...
-    - iOS Programming, and I'm working on AiOAlarm over my winter break
+    - iOS Programming, and I'm working on a musician tools app
 - 📫 How to reach me 
     - @Ashassins on most social media
     - Just for fun: https://monkeytype.com/profile/ashassins
