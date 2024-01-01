@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Ashassins. A.k.a Ashen, Anna, etc.
-    - I've worked for Nucor and Cisco so far, and did my B.S. in Computer Engineering at Purdue University
+    - Currently an application developer @ Discover    
+    - I've also worked for Nucor and Cisco, and did my B.S. in Computer Engineering at Purdue University
     - I went to John Champe High School and Thomas Jefferson High School for Science and Technology
-- 👀 I’m interested in 
-    - Mechanical Keyboards, Design 
+- 👀 I’m interested in
+    - Ceramics!  
+    - Mechanical Keyboards, Pokémon TCG 
     - Cooking/Baking, Plants, Birds, Art, Latin / GrecoRoman culture
     - Performing and Visual Arts
 - 🌱 I’m currently learning about...
