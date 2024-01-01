@@ -7,6 +7,7 @@
     - Performing and Visual Arts
 - 🌱 I’m currently learning about...
     - iOS Programming, and I'm working on a musician tools app
+    - Game Dev! Birdie Atsume!
 - 📫 How to reach me 
     - @Ashassins on most social media
     - Just for fun: https://monkeytype.com/profile/ashassins
